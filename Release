@@ -1,0 +1,16 @@
+Origin: PHCrane Repo
+Label: PHCrane Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Kho tải tweak PHCrane (Sileo Fix)
+MD5Sum:
+ d673f262e264b5325d6763b0acbdf688 582 Packages
+ 73a30864befc611eced4370357df04d6 457 Packages.bz2
+ eb55d1e41aa2974c5ddbe0444a561b49 424 Packages.gz
+SHA256:
+ 8a69933bd3258941eb72f3e072fdd8ec4dd6ad734608bb97736367de33ddfb13 582 Packages
+ 5605f4c1dc97087db5e87dcecc04af7eb966632eb8b8c8c63bc8bffc3457cbbb 457 Packages.bz2
+ 5c377fc6e4864db89a808e927f2d27b3633f41abc69df2ce4560358ad15d4dc8 424 Packages.gz

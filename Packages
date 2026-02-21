@@ -1,0 +1,17 @@
+Package: com.thanhtvsys.phcrane
+Version: 1.0-14
+Architecture: iphoneos-arm
+Maintainer: Thanh Tran <admin@phcrane.com>
+Depends: firmware (>= 14.0)
+Filename: ./debs/PHCrane\_v1.0-14.deb
+Size: 76852
+MD5sum: 6a15f1ddc34589388ab65f40fd361cba
+SHA1: 66043370597721416d73a976fa076a11aac6c455
+SHA256: a4f6f865614dfe5e1f7e387af2a1a770bbd266167f432c93458635771e44bb55
+Section: Utilities
+Description: Kho tải tweak PHCrane (Sileo Fix)
+Author: Thanh Tran
+Depiction: https://Thanhtvsys.github.io/phcrane/index.html
+Icon: file://https://Thanhtvsys.github.io/phcrane/CydiaIcon.png
+Name: PHCrane
+
