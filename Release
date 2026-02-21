@@ -1,16 +1,16 @@
-Origin: PHCrane Repo
-Label: PHCrane Repo
+Origin: PHCrane Official Repo
+Label: PHCrane Official Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Kho tải tweak PHCrane (Sileo Fix)
+Description: Kho tải tweak PHCrane chính chủ. Hỗ trợ iOS 14 - 18.
 MD5Sum:
- d673f262e264b5325d6763b0acbdf688 582 Packages
- 73a30864befc611eced4370357df04d6 457 Packages.bz2
- eb55d1e41aa2974c5ddbe0444a561b49 424 Packages.gz
+ 8294b612b69a2568e05a2a784e6a17a3 1193 Packages
+ cc5526f749f9b0bdc3f7a1e5197b4e02 676 Packages.bz2
+ 379941464c997b86947bba2d0780a7c3 580 Packages.gz
 SHA256:
- 8a69933bd3258941eb72f3e072fdd8ec4dd6ad734608bb97736367de33ddfb13 582 Packages
- 5605f4c1dc97087db5e87dcecc04af7eb966632eb8b8c8c63bc8bffc3457cbbb 457 Packages.bz2
- 5c377fc6e4864db89a808e927f2d27b3633f41abc69df2ce4560358ad15d4dc8 424 Packages.gz
+ 7fae3908491364712b0f7fa683be67fbf34b2b38e4df8662a909e5b6b4328050 1193 Packages
+ 851557fb761c01fbc010238524d842a9c8fb4128a21a75ec72a64c9bcd60eda3 676 Packages.bz2
+ d381fb852eb341e53fb027b548d73ef45f5dd924ebeb39305f76d6f30441a69e 580 Packages.gz
