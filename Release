@@ -7,10 +7,10 @@ Architectures: iphoneos-arm
 Components: main
 Description: Kho tải tweak PHCrane chính chủ. Bao gồm App quản lý và Tweak ngầm.
 MD5Sum:
- 0f204a7323c1f2011190a2138beaa23c 5904 Packages
- b121ee7e6e96922422e60280c90c9efe 1591 Packages.bz2
- b9e75c66c7e637fb097afca5183ed40c 1345 Packages.gz
+ $(md5 -q "$file") $(stat -f%z "$file") $file
+ $(md5 -q "$file") $(stat -f%z "$file") $file
+ $(md5 -q "$file") $(stat -f%z "$file") $file
 SHA256:
- 1398b3242d93044a9968eded93dd5d39d0afcf2f09512299215728d57cc358bc 5904 Packages
- 31d3c2b8772c73c11be50701cee65b4758de007c252cd3e0456958d47c4dbe39 1591 Packages.bz2
- 748744e78e09562b1193e4776a2dcfd4f6da44081e47f59360cf25175431c981 1345 Packages.gz
+ $(shasum -a 256 "$file" | awk '{print $1}') $(stat -f%z "$file") $file
+ $(shasum -a 256 "$file" | awk '{print $1}') $(stat -f%z "$file") $file
+ $(shasum -a 256 "$file" | awk '{print $1}') $(stat -f%z "$file") $file
