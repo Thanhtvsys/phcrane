@@ -7,10 +7,10 @@ Architectures: iphoneos-arm
 Components: main
 Description: Kho tải tweak PHCrane chính chủ. Bao gồm App quản lý và Tweak ngầm.
 MD5Sum:
- 4380d941746e3164e6f4041b079cbd04 5913 Packages
- 30334811aef6e92442eaf3bbc83378cd 1557 Packages.bz2
- d15eac8f224c822cace598976959e023 1347 Packages.gz
+ 94787d547b7a69b9f2750f1b648adc18 6570 Packages
+ 56f9bb99290ed9c68797fb3825636733 1653 Packages.bz2
+ 33f75bddf59ddc1529acf9b337b30951 1448 Packages.gz
 SHA256:
- 1576eeaa89931c5d7778f00628210a1e1e9e9a002f57be0a0abc9996c0fca230 5913 Packages
- 97d6d1e672508a38e0ab64db6da9f6987e362b5723f7856b53ebf143d7852b88 1557 Packages.bz2
- 5438b1b3d0fb3d74fae822be9b989718424cc7fa54b57f55ffb9b89b755c2dc8 1347 Packages.gz
+ 87d1f9e39b2f65e1be7a15aa07320ea45de014a5276b76d0c91f3a438d9f8a50 6570 Packages
+ fbb0451c736450154a1be194f56c7290699e60c73fd2b31a6fcaa6abc731e815 1653 Packages.bz2
+ 18125b352eea5c735cf20e420452fb1a7386d85d10f215d10489c4fba7ad42cf 1448 Packages.gz
