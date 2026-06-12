@@ -5,12 +5,12 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Kho tải tweak PHCrane chính chủ. Bao gồm App quản lý và Tweak ngầm.
+Description: ThanhTV
 MD5Sum:
- 94ac6a82666b0af873143f0356d9b369 30222 Packages
- 1211076d17e56f550d3a4f8ba804f0b2 4800 Packages.bz2
- d60ecfdc380346513c6f9a7db3e7ecd1 5155 Packages.gz
+ 9c008be942b5b57524847ec3af19c180 584 Packages
+ 934caeed593c17a0b724e53c1f0f8c54 451 Packages.bz2
+ 2cc48f7bdca5da90e69769d2368e437c 416 Packages.gz
 SHA256:
- e7fdb846ddc3ca1f68f86e0530926b15214a9dbd6cbceedd6e65820a3f4439a0 30222 Packages
- 12e946b87a35d17adafc85c3e555934ad81e534ee11388f734eb4a76bb0ad92d 4800 Packages.bz2
- b201ecc39645c48d1c85eed7fcdfda95ba197d26d1e4661f78eff57c0014e6c5 5155 Packages.gz
+ c549dc7e435ecec2ca8abbaf1ecc17714c3517be1461a62e68a773d08ba6ec00 584 Packages
+ 05d2d47bed189bcf0d31ec447aefb8585e158265a102decf74aece6f17af5299 451 Packages.bz2
+ 0fc9e86f482d1ce05e163c31c9afd43d514046a8e49a89cfd66c840336e8a804 416 Packages.gz
