@@ -440,3 +440,20 @@ Depiction: https://Thanhtvsys.github.io/phcrane/index.html
 Icon: file://https://Thanhtvsys.github.io/phcrane/CydiaIcon.png
 Name: PHCrane
 
+Package: com.thanhtvsys.phcrane
+Version: 2.16-7-3-354
+Architecture: iphoneos-arm
+Maintainer: Thanh Tran <admin@phcrane.com>
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/PHCrane_v2.16-7-3-354.deb
+Size: 3356104
+MD5sum: a25df08970df524e3eafcf47f1cce214
+SHA1: 6690a91fb3c40a7bfc57201b8f8f6d0c4de0371d
+SHA256: c69b99d1e4e3b17b35241138a03c1de19b341ef1b75457fb33573b7ef3523776
+Section: Utilities
+Description: ThanhTV
+Author: Thanh Tran
+Depiction: https://Thanhtvsys.github.io/phcrane/index.html
+Icon: file://https://Thanhtvsys.github.io/phcrane/CydiaIcon.png
+Name: PHCrane
+
